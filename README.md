@@ -1,7 +1,7 @@
 # About
 
-My practics in [JetRuby Academy](https://jetruby.com)
-Course **Ruby on Rails 2023**
+My practice in [JetRuby Academy](https://jetruby.com)\
+Course **«Ruby on Rails 2023»**
 
 ## Install
 
@@ -12,20 +12,20 @@ Course **Ruby on Rails 2023**
 with https
 
 ```bash
-git clone this repo
+git clone https://github.com/maxdzyubak/jetruby.git
 ```
 
 with ssh
 
 ```bash
-git clone this repo
+git clone git@github.com:maxdzyubak/jetruby.git
 ```
 
 ### Lessons
 
 #### Lesson #1: GIT
 
-##### [Repository with practic]()
+##### [Repository with practic](https://github.com/maxdzyubak/jetruby/tree/main/lesson-1-git)
 
 ##### Install for lesson #1
 
