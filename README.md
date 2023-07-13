@@ -15,7 +15,7 @@ with https
 git clone https://github.com/maxdzyubak/jetruby.git
 ```
 
-with ssh
+or ssh
 
 ```bash
 git clone git@github.com:maxdzyubak/jetruby.git
