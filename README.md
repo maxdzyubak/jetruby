@@ -21,11 +21,17 @@ or ssh
 git clone git@github.com:maxdzyubak/jetruby.git
 ```
 
+## Navigation
+
+| | | | | |
+|---|---|---|---|---|
+| ![git hub logo](assets/img/github.svg) | Lesson #1: Git | [Install](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-1) | [Repository](<https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-1-git>) | [Description](https://github.com/maxdzyubak/jetruby/tree/main#description) |
+
 ### Lessons
 
 #### Lesson #1: GIT
 
-##### [Repository with practic](https://github.com/maxdzyubak/jetruby/tree/main/lesson-1-git)
+##### [Repository with practices](https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-1-git)
 
 ##### Install for lesson #1
 
@@ -35,10 +41,9 @@ ruby jetruby.rb
 
 ##### Description
 
-Lern basic git: structure, commands, assignment.
 Work in bash and git gui.
 Using commands: `git init`, `git add`, `git status`, `git commit`, `git commit -m`, `git log`, `git push`, `git pull`, `git merge`, `git fetch`, `git diff`
 
-### License
+#### License
 
 [MIT](https://opensource.org/license/mit/)
