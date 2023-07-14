@@ -27,23 +27,23 @@ git clone git@github.com:maxdzyubak/jetruby.git
 |---|---|---|---|---|
 | ![git hub logo](assets/img/github.svg) | Lesson #1: Git | [Install](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-1) | [Repository](<https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-1-git>) | [Description](https://github.com/maxdzyubak/jetruby/tree/main#description) |
 
-### Lessons
+## Lessons
 
-#### Lesson #1: GIT
+### Lesson #1: GIT
 
-##### [Repository with practices](https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-1-git)
+#### [Repository with practices](https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-1-git)
 
-##### Install for lesson #1
+#### Install for lesson #1
 
 ```bash
 ruby jetruby.rb
 ```
 
-##### Description
+#### Description
 
 Work in bash and git gui.
 Using commands: `git init`, `git add`, `git status`, `git commit`, `git commit -m`, `git log`, `git push`, `git pull`, `git merge`, `git fetch`, `git diff`
 
-#### License
+### License
 
 [MIT](https://opensource.org/license/mit/)
