@@ -5,8 +5,8 @@ RSpec.describe 'foobar' do
     expect(foobar(20, 10)).to eq(10)
   end
 
-  it 'returns num1 when num2 is 20' do
-    expect(foobar(10, 20)).to eq(10)
+  it 'returns num2 when num2 is 20' do
+    expect(foobar(10, 20)).to eq(20)
   end
 
   it 'returns the sum of num1 and num2 when both are not equal to 20' do
