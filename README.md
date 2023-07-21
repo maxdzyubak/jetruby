@@ -98,6 +98,10 @@ Task #2:
 `[{ name: 'Pikachu', color: 'Yellow' }, ... n times{}]`
 `* Код должен быть организован в методы`
 
+#### Description lection #3
+
+Training in building visual block schemas. Detailed analysis of data types in ruby.
+
 ### License
 
 [MIT](https://opensource.org/license/mit/)
