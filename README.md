@@ -26,7 +26,7 @@ git clone git@github.com:maxdzyubak/jetruby.git
 | | | | | | |
 |---|---|---|---|---|---|
 | ![github logo](assets/img/github.svg) | Lesson #1: Git | | [Install](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-1) | [Repository](<https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-1-git>) | [Description](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-1) |
-| ![ruby logo](assets/img/ruby.svg) | Lesson #2: Hello Ruby | [Tasks]() | [Install](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-2) | [Repository](https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-2-hello_ruby) | [Description](<https://github.com/maxdzyubak/jetruby/tree/main#description-lection-2>) |
+| ![ruby logo](assets/img/ruby.svg) | Lesson #2: Hello Ruby | [Tasks](https://github.com/maxdzyubak/jetruby/tree/main#tasks) | [Install](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-2) | [Repository](https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-2-hello_ruby) | [Description](<https://github.com/maxdzyubak/jetruby/tree/main#description-lection-2>) |
 
 ## Lessons
 
@@ -49,13 +49,13 @@ Using commands: `git init`, `git add`, `git status`, `git commit`, `git commit -
 
 #### Tasks
 
-##### Task #1
+Task #1:
 
 Написать метод `greeting`, который будет запрашивать имя, фамилию и возраст, а затем выдавать приветствие в одном из двух вариантов, в зависимости от возраста
 `- Привет, {имя} {фамилия}. Тебе меньше 18 лет, но начать учиться программировать никогда не рано`
 `- Привет, {имя} {фамилия}. Самое время заняться делом`
 
-##### Task #2
+Task #2:
 
 Написать метод `foobar`, который принимает пару чисел, если хотя бы одно равно `20` — возвращает второе число, в противно случае вывод сумму этих чисел
 
