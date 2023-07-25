@@ -21,13 +21,19 @@ or ssh
 git clone git@github.com:maxdzyubak/jetruby.git
 ```
 
+start all tests from root dir `jetruby` enter command:
+
+```bash
+rspec
+```
+
 ## Navigation
 
-| | | | | | |
-|---|---|---|---|---|---|
-| ![github logo](assets/img/github.svg) | Lesson #1: Git | | [Install](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-1) | [Repository](<https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-1-git>) | [Description](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-1) |
-| ![ruby logo](assets/img/ruby.svg) | Lesson #2: Hello Ruby | [Tasks](https://github.com/maxdzyubak/jetruby/tree/main#tasks-2) | [Install](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-2) | [Repository](https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-2-hello_ruby) | [Description](<https://github.com/maxdzyubak/jetruby/tree/main#description-lection-2>) |
-| ![ruby logo](assets/img/ruby.svg) | Lesson #3: Block schemas and data types | [Tasks](https://github.com/maxdzyubak/jetruby/tree/main#tasks-3) | | | [Description](<https://github.com/maxdzyubak/jetruby/tree/main#description-lection-3>) |
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+| ![github logo](assets/img/github.svg) | Lesson #1: Git | | [Install](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-1) |  |  | [Repository](<https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-1-git>) | [Description](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-1) |
+| ![ruby logo](assets/img/ruby.svg) | Lesson #2: Hello Ruby | [Tasks](https://github.com/maxdzyubak/jetruby/tree/main#tasks-2) | [Install](https://github.com/maxdzyubak/jetruby/tree/main#install-for-lesson-2) |  | | [Repository](https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-2-hello_ruby) | [Description](<https://github.com/maxdzyubak/jetruby/tree/main#description-lection-2>) |
+| ![ruby logo](assets/img/ruby.svg) | Lesson #3: Block schemas and data types | [Tasks](https://github.com/maxdzyubak/jetruby/tree/main#tasks-3) | | [Tests](https://github.com/maxdzyubak/jetruby/tree/main/spec/lessons/lesson-3-block_schemas_and_data_types) | [Block Schema](https://github.com/maxdzyubak/jetruby/blob/main/assets/block_schemas/lesson-3-block_schemas_and_data_types/lesson-3-block_schema-1.jpg) | [Repository](https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-3-block_schemas_and_data_types) | [Description](<https://github.com/maxdzyubak/jetruby/tree/main#description-lection-3>) |
 
 ## Lessons
 
@@ -58,7 +64,7 @@ Task #1:
 
 Task #2:
 
-Написать метод `foobar`, который принимает пару чисел, если хотя бы одно равно `20` — возвращает второе число, в противно случае вывод сумму этих чисел
+Написать метод `foobar`, который принимает пару чисел, если хотя бы одно равно `20` — возвращает второе число, в противном случае выводит сумму этих чисел
 
 #### [Repository with practices](https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-2-hello_ruby)
 
@@ -97,6 +103,10 @@ Task #2:
 `- Выведет в консоль массив, содержащий хеши покемонов в формате:`\
 `[{ name: 'Pikachu', color: 'Yellow' }, ... n times{}]`
 `* Код должен быть организован в методы`
+
+#### [Repository with tests](https://github.com/maxdzyubak/jetruby/tree/main/spec/lessons/lesson-3-block_schemas_and_data_types)
+
+#### [Repository with practices](https://github.com/maxdzyubak/jetruby/tree/main/lessons/lesson-3-block_schemas_and_data_types)
 
 #### Description lection #3
 
